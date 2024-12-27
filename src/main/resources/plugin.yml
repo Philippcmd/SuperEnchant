@@ -1,0 +1,4 @@
+name: SuperEnchant
+version: '1.0-SNAPSHOT'
+main: dev.philippcmd.superEnchant.SuperEnchant
+api-version: '1.21'
